@@ -1,0 +1,16 @@
+{
+  "name": "syedahalam-resume",
+  "version": "1.0.0",
+  "description": "ISC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Syeda Alam",
+  "license": "ISC",
+  
+  "bin": {
+  "your-command-here": "./index.js"
+}
+  
+}
